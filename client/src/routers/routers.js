@@ -8,6 +8,7 @@ import EntAdd3 from "../components/views/enterprises/create_ent/ent_add_2.vue";
 import EntAdd4 from "../components/views/enterprises/create_ent/ent_add_2.vue";
 import EntList from "../components/views/enterprises/ent_list.vue";
 import Home from "../components/views/home/home.vue";
+import Login from "../components/views/home/home.vue";
 
 Vue.use(Router);
 
